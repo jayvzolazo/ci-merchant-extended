@@ -1,12 +1,15 @@
-ci-merchant-extended
-======================================
+```html
 
-Modified CI-Merchant Library
+<h1>ci-merchant-extended</h1>
+<hr />
 
-This library is modified by me!! (Paypal Express only). I managed to add "item list" to this library, so from single trasanction to multiple transaction is now possible.
+<h3>Modified CI-Merchant Library</h3>
 
-Example code:
+<p>This library is modified by me!! (Paypal Express only). I managed to add "item list" to this library, so from single trasanction to multiple transaction is now possible.</p>
 
+<p>xample code:E</p>
+
+<pre>
 $params = array(
 	'amount' => '10',
 	'currency' => 'USD',
@@ -18,6 +21,5 @@ $params = array(
 		'item_price' => $this->input->post('item_price')
 	)
 );
-
-NOTE:
-each post data are arrays
+</pre>
+<p><strong>NOTE:</strong> each post data are arrays</p>
