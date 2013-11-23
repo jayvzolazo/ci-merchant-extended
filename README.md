@@ -1,5 +1,3 @@
-```html
-
 <h1>ci-merchant-extended</h1>
 <hr />
 
@@ -23,4 +21,3 @@ $params = array(
 );
 </pre>
 <p><strong>NOTE:</strong> each post data are arrays</p>
-```
